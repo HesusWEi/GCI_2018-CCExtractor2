@@ -27,5 +27,5 @@ GCI is great
 This is the second question:
 Your name?jack
 Hello jack ,please to meet you!
-hello! jack please to meet you,do you know your backwards name is ['a', 'c', 'j', 'k'] ?
+hello! jack please to meet you,do you know your backwards name is ['k', 'c', 'a', 'j'] ?
 
